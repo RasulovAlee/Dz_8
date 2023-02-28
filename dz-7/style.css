@@ -1,0 +1,19 @@
+body{
+    background: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lights {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: rgb(72, 72, 72);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+    font-size: 30px;
+    font-weight: 700;
+}
